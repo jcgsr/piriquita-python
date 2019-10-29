@@ -1,6 +1,6 @@
 # 22.10.2019 terminado 26.10.2019
 # meu primeiro webapp!!
-# na Internet pela primeira vez em 28.10.2019
+# na Internet pela primeira vez em 28.10.2019 no pythonanywhere
 
 from flask import Flask, request
 
